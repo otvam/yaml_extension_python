@@ -21,7 +21,7 @@ For an advanced parsing "pyparsing" could be used.
 
 ## Author
 
-**Thomas Guillod** * [GitHub Profile](https://github.com/otvam)
+**Thomas Guillod** - [GitHub Profile](https://github.com/otvam)
 
 ## License
 
