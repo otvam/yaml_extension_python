@@ -1,0 +1,7 @@
+string: 'string'
+integer: 1
+float: 1.5
+struct:
+    string: 'string'
+    integer: 1
+    float: 1.5

@@ -7,7 +7,7 @@ if __name__ == "__main__":
     """
 
     # load a yaml file
-    data = load_yaml.load_yaml('data/main.yaml')
+    data = load_yaml.load_yaml('test_data/test_main.yaml')
 
     # display the data
     print(data)
