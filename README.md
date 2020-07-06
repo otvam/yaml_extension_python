@@ -1,4 +1,4 @@
-# Python code for extending the YAML format
+# Python Code for Extending the YAML Format
 
 This **Python** class offers extension to the **YAML** format:
 * include YAML file in YAML file
