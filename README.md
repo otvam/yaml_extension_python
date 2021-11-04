@@ -1,5 +1,10 @@
 # Python Code for Extending the YAML Format
 
+![license - BSD](https://img.shields.io/badge/license-BSD-green)
+![language - python](https://img.shields.io/badge/language-python-blue)
+![category - hobby](https://img.shields.io/badge/category-hobby-lightgrey)
+![status - unmaintained](https://img.shields.io/badge/status-unmaintained-red)
+
 This **Python** class offers extensions to the **YAML** format:
 * include YAML file in YAML file
 * include relative filesystem paths
